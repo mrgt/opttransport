@@ -1,0 +1,3 @@
+add_executable(wasserstein_2 wasserstein_2.cpp)
+add_executable(decompose_2 decompose_2.cpp)
+add_executable(view_decomposition_2 view_decomposition_2.cpp)

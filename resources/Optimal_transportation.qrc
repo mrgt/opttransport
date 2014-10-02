@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/cgal/Actions" />
+  <qresource prefix="/cgal/help" >
+  </qresource>
+</RCC>
